@@ -10,7 +10,7 @@ My projects focus on deploying and administering real systems rather than isolat
 
 ## Career Focus
 
-I am currently developing the practical skills required for **IT Support Specialist** and **Junior Systems Administrator** roles, with a long-term interest in **Identity and Access Management (IAM)**.
+I am currently developing the practical skills required for **IT Support Specialist** and ** Systems Administrator** roles, with a long-term interest in **Identity and Access Management (IAM)**.
 
 My labs emphasize:
 
@@ -21,7 +21,7 @@ My labs emphasize:
 - Network troubleshooting
 - Remote administration
 - Server and service management
-- Infrastructure security
+- Security in depth
 
 ---
 

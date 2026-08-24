@@ -96,7 +96,7 @@ Built a Microsoft Active Directory environment in Azure to practice enterprise W
 
 **Skills:** Active Directory • Windows Server • Azure • DNS • IAM • User Administration • Authentication • RDP
 
-> [View Active Directory Lab](YOUR-REPOSITORY-LINK)
+> [View Active Directory Lab](https://github.com/Dajeal/azure-active-directory-lab)
 
 ---
 
@@ -122,7 +122,7 @@ Built and secured an Ubuntu home server providing network storage, media service
 
 **Skills:** Linux • Ubuntu Server • Bash • SSH • Samba • WireGuard • DNS • NAT • TCP/IP • Firewall Administration • systemd
 
-> [View Linux Home Server Project](YOUR-REPOSITORY-LINK)
+> [View Linux Home Server Project](https://github.com/Dajeal/-Ubuntu-Home-Server-Secure-Remote-Access-Lab)
 
 ---
 

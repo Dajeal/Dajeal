@@ -126,6 +126,26 @@ Built and secured an Ubuntu home server providing network storage, media service
 
 ---
 
+### osTicket Help Desk Deployment Lab
+
+Deployed and configured an osTicket help desk environment on Windows, integrating IIS, PHP, and MySQL to provide a functional ticketing platform for end users and IT support agents.
+
+**Implemented:**
+
+- Configured Internet Information Services (IIS) to host the osTicket web application
+- Installed and integrated PHP, MySQL, PHP Manager, and required IIS components
+- Created and administered the osTicket MySQL database using HeidiSQL
+- Configured help desk agents, departments, roles, and ticket access permissions
+- Tested end-user ticket submission and agent ticket management workflows
+- Diagnosed agent authentication issues by inspecting application data with SQL
+- Troubleshot ticket visibility and department-routing issues
+- Performed post-installation security hardening by removing setup files and restricting configuration-file permissions
+
+**Skills:** IT Support • Help Desk Administration • osTicket • IIS • Windows • MySQL • SQL • PHP • HeidiSQL • User Administration • RBAC • Troubleshooting
+
+> [View osTicket Help Desk Project](https://github.com/Dajeal/osTicket-Help-Desk-Deployment-Lab)
+
+
 ## What I'm Building Toward
 
 My current projects focus on building a foundation in:
@@ -140,9 +160,3 @@ Identity & Access Management
 
 I am continuing to develop experience with Windows and Linux administration, Active Directory, cloud infrastructure, IAM, troubleshooting, automation, and secure enterprise infrastructure.
 
-
-
-## Projects
-- Enterprise Vulnerability Assessment & External Security Evaluation
-- Network Traffic Capture & Security Analysis
-- Enterprise User & Permission Management Lab

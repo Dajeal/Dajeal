@@ -51,31 +51,19 @@ My labs emphasize:
 
 ### Microsoft / Identity
 
-<div>
-    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Group_Policy-0078D4?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" /> </div>
+
+### IT Support/Systems
+
+<div> <img src="https://img.shields.io/badge/-osTicket-1F8ACB?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-IIS-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-HeidiSQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" /> </div>
 
 ### Linux / Infrastructure
 
-<div>
-    <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-systemd-000000?&style=for-the-badge&logo=linux&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/-systemd-000000?&style=for-the-badge&logo=linux&logoColor=white" /> </div>
 
 ### Networking / Remote Access
 
-<div>
-    <img src="https://img.shields.io/badge/-WireGuard-88171A?&style=for-the-badge&logo=wireguard&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SSH-000000?&style=for-the-badge&logo=openssh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SMB%2FSamba-4EAA25?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCP%2FIP-005C84?&style=for-the-badge" />
-</div>
-
+<div> <img src="https://img.shields.io/badge/-WireGuard-88171A?&style=for-the-badge&logo=wireguard&logoColor=white" /> <img src="https://img.shields.io/badge/-SSH-000000?&style=for-the-badge&logo=openssh&logoColor=white" /> <img src="https://img.shields.io/badge/-RDP-0078D4?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-SMB%2FSamba-4EAA25?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-TCP%2FIP-005C84?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-DNS-005C84?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-DHCP-005C84?&style=for-the-badge" /> </div>
 ---
 
 ## Featured Projects

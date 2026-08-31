@@ -29,18 +29,21 @@ My labs emphasize:
 
 | Skill | Hands-On Experience |
 |---|---|
-| Active Directory Administration | Domain users, groups, OUs, authentication, domain-joined endpoints |
+| Active Directory Administration | Domain users, security groups, OUs, domain authentication, domain-joined endpoints |
 | Identity & Access Management | User provisioning, group-based access, authentication, least privilege |
-| Windows Server Administration | Active Directory Domain Services, DNS, domain services |
+| Windows Server Administration | Active Directory Domain Services, DNS, Group Policy, domain services |
+| IT Support & Ticketing | osTicket, ticket lifecycle management, agent administration, departments, queues, routing |
 | Linux Administration | Ubuntu Server, users, permissions, services, networking |
-| Network Troubleshooting | DNS, DHCP, TCP/IP, routing, ports, connectivity testing |
+| Network Troubleshooting | DNS, DHCP, TCP/IP, routing, ports, NAT, connectivity testing |
 | Remote Administration | SSH, RDP, WireGuard VPN |
-| File Services | Samba/SMB network shares and permissions |
+| File Services | Samba/SMB network shares, authentication file and directory permissions |
+| Web & Application Services | IIS, PHP configuration, web application deployment, service validation |
+| Database Administration | MySQL, HeidiSQL, SQL queries, application database troubleshooting |
 | Firewall Administration | IPv4/IPv6 filtering, stateful rules, NAT, service restrictions |
 | VPN Administration | WireGuard, PiVPN, client provisioning, routing, NAT |
 | Service Management | systemd, service validation, logging and troubleshooting |
 | Cloud Infrastructure | Microsoft Azure virtual machines and networking |
-| Automation | Bash scripting, cron, systemd services |
+| Scripting and Automation | Python, PowerShell Bash scripting, cron, systemd services |
 
 ---
 

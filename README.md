@@ -131,7 +131,7 @@ Designed and implemented a **segmented enterprise network in Cisco Packet Tracer
 
 **Skills:** TCP/IP • IPv4 • VLSM • Routing • Switching • NAT/PAT • Firewall ACLs • DMZ • Network Segmentation • STP • High Availability • Cisco Packet Tracer
 
-> [View Enterprise Network Security & Infrastructure Lab](YOUR-REPOSITORY-URL)
+> [View Enterprise Network Security & Infrastructure Lab](https://github.com/Dajeal/enterprise-network-security-lab)
 
 ---
 

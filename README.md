@@ -4,46 +4,46 @@
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a Cybersecurity graduate student building hands-on experience in IT support, systems administration, identity and access management, and infrastructure security.
+I am a Cybersecurity graduate student building hands-on experience in **systems administration, enterprise networking, IT support, identity and access management, and infrastructure security**.
 
-My projects focus on deploying and administering real systems rather than isolated exercises. Current work includes a Microsoft Active Directory environment hosted in Azure and a Linux home server providing secure file sharing, media services, VPN-based remote access, firewalling, and network services.
+My projects focus on deploying, administering, securing, and troubleshooting complete environments rather than isolated exercises. Current work includes **Microsoft Active Directory in Azure, Windows Server administration, enterprise network design, Linux server administration, VPN infrastructure, and help desk systems**.
 
 ## Career Focus
 
-I am currently developing the practical skills required for **IT Support Specialist** and **Systems Administrator** roles, with a long-term interest in **Identity and Access Management (IAM)**.
+I am developing the practical skills required for **Systems Administrator, Junior Systems Administrator, and IT Infrastructure** roles, with a long-term interest in **Identity and Access Management (IAM)**.
 
 My labs emphasize:
 
-- Windows and Linux administration
-- Active Directory administration
-- User and group lifecycle management
-- Authentication and access control
-- Network troubleshooting
+- Windows & Linux administration
+- Active Directory & identity administration
+- TCP/IP networking, routing & switching
+- DNS, subnetting & network troubleshooting
+- User, group & access management
+- Server & service administration
 - Remote administration
-- Server and service management
-- Security in depth
+- Firewalling & network segmentation
+- PowerShell & Bash
+- Infrastructure troubleshooting
 
 ---
 
 ## Technical Skills
 
-| Skill | Hands-On Experience |
+| Area | Hands-On Experience |
 |---|---|
-| Active Directory Administration | Domain users, security groups, OUs, domain authentication, domain-joined endpoints |
-| Identity & Access Management | User provisioning, group-based access, authentication, least privilege |
-| Windows Server Administration | Active Directory Domain Services, DNS, Group Policy, domain services |
-| IT Support & Ticketing | osTicket, ticket lifecycle management, agent administration, departments, queues, routing |
-| Linux Administration | Ubuntu Server, users, permissions, services, networking |
-| Network Troubleshooting | DNS, DHCP, TCP/IP, routing, ports, NAT, connectivity testing |
-| Remote Administration | SSH, RDP, WireGuard VPN |
-| File Services | Samba/SMB network shares, authentication file and directory permissions |
-| Web & Application Services | IIS, PHP configuration, web application deployment, service validation |
-| Database Administration | MySQL, HeidiSQL, SQL queries, application database troubleshooting |
-| Firewall Administration | IPv4/IPv6 filtering, stateful rules, NAT, service restrictions |
-| VPN Administration | WireGuard, PiVPN, client provisioning, routing, NAT |
-| Service Management | systemd, service validation, logging and troubleshooting |
-| Cloud Infrastructure | Microsoft Azure virtual machines and networking |
-| Scripting and Automation | Python, PowerShell Bash scripting, cron, systemd services |
+| **Active Directory / IAM** | AD DS, users, security groups, OUs, domain authentication, domain-joined endpoints, role-based access |
+| **Windows Server** | Windows Server 2022, AD DS, DNS, SYSVOL, RDP, domain services |
+| **Linux Administration** | Ubuntu Server, users, permissions, systemd, services, SSH, networking |
+| **Networking** | TCP/IP, IPv4, subnetting/VLSM, static routing, switching, DNS, DHCP, NAT/PAT |
+| **Network Security** | Firewall ACLs, network segmentation, DMZ architecture, least privilege, IPv4/IPv6 filtering |
+| **Cloud Infrastructure** | Microsoft Azure VMs, VNets, subnets, static private addressing |
+| **Remote Administration** | RDP, SSH, WireGuard VPN, secure remote access |
+| **IT Support / Ticketing** | osTicket, ticket lifecycle, agents, departments, queues, routing, troubleshooting |
+| **File Services** | Samba/SMB, authenticated network shares, file and directory permissions |
+| **Web / Application Services** | IIS, PHP, web application deployment and service validation |
+| **Databases** | MySQL, HeidiSQL, SQL queries, application database troubleshooting |
+| **Scripting / Automation** | PowerShell, Bash, Python, batch scripts, cron, systemd |
+| **High Availability Concepts** | STP, redundant network paths, firewall clustering, Active/Passive failover |
 
 ---
 
@@ -51,65 +51,104 @@ My labs emphasize:
 
 ### Microsoft / Identity
 
-<div> <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Group_Policy-0078D4?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" /> </div>
+<div>
+<img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
 
-### IT Support/Systems
+### Networking / Infrastructure
 
-<div> <img src="https://img.shields.io/badge/-osTicket-1F8ACB?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-IIS-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-HeidiSQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" /> </div>
+<div>
+<img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCP%2FIP-005C84?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-IPv4_Subnetting-005C84?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Routing-005C84?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-NAT%2FPAT-005C84?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-DNS-005C84?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-DHCP-005C84?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Firewall_ACLs-005C84?&style=for-the-badge" />
+</div>
 
-### Linux / Infrastructure
+### Linux / Remote Administration
 
-<div> <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/-systemd-000000?&style=for-the-badge&logo=linux&logoColor=white" /> </div>
+<div>
+<img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/-SSH-000000?&style=for-the-badge&logo=openssh&logoColor=white" />
+<img src="https://img.shields.io/badge/-WireGuard-88171A?&style=for-the-badge&logo=wireguard&logoColor=white" />
+<img src="https://img.shields.io/badge/-Samba-4EAA25?&style=for-the-badge&logo=linux&logoColor=white" />
+</div>
 
-### Networking / Remote Access
+### IT Support / Applications
 
-<div> <img src="https://img.shields.io/badge/-WireGuard-88171A?&style=for-the-badge&logo=wireguard&logoColor=white" /> <img src="https://img.shields.io/badge/-SSH-000000?&style=for-the-badge&logo=openssh&logoColor=white" /> <img src="https://img.shields.io/badge/-RDP-0078D4?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-SMB%2FSamba-4EAA25?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-TCP%2FIP-005C84?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-DNS-005C84?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-DHCP-005C84?&style=for-the-badge" /> </div>
+<div>
+<img src="https://img.shields.io/badge/-osTicket-1F8ACB?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-IIS-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" />
+</div>
+
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Microsoft Azure Active Directory Lab
+## Microsoft Azure Active Directory Administration Lab
 
-Built a Microsoft Active Directory environment in Azure to practice enterprise Windows administration and identity management.
+Built and administered a **Windows Server 2022 Active Directory environment in Microsoft Azure** to develop hands-on enterprise systems administration and identity-management skills.
 
-**Implemented:**
+**Highlights:**
 
-- Deployed Windows Server in Microsoft Azure
-- Installed and configured Active Directory Domain Services
-- Promoted Windows Server to a Domain Controller
-- Configured Active Directory-integrated DNS
-- Created and administered domain users and groups
-- Organized directory objects using Organizational Units
-- Joined a Windows client to the domain
-- Tested domain-user authentication from a client workstation
-- Configured and validated user logon scripts
-- Performed administrative and connectivity troubleshooting
+- Deployed a Windows Server 2022 Domain Controller in Azure
+- Configured **AD DS, DNS, static IP addressing, and Azure VNet networking**
+- Administered **users, security groups, and Organizational Units**
+- Implemented group-based administration and SYSVOL logon scripting
+- Deployed and domain-joined a separate Windows client
+- Validated domain authentication and group membership
+- Troubleshot **RDP, DNS, TCP/IP connectivity, and Windows authentication**
 
-**Skills:** Active Directory • Windows Server • Azure • DNS • IAM • User Administration • Authentication • RDP
+**Skills:** Windows Server • Active Directory • AD DS • DNS • Azure • PowerShell • IAM • RDP • Troubleshooting
 
-> [View Active Directory Lab](https://github.com/Dajeal/azure-active-directory-lab)
+> [View Microsoft Azure Active Directory Lab](https://github.com/Dajeal/azure-active-directory-lab)
 
 ---
 
-### Linux Home Server
+## Enterprise Network Security & Infrastructure Lab
 
-Built and secured an Ubuntu home server providing network storage, media services, VPN-based remote access, and centralized infrastructure services.
+Designed and implemented a **segmented enterprise network in Cisco Packet Tracer** supporting internal users, Active Directory, public-facing services, remote access, databases, and controlled Internet connectivity.
 
-**Implemented:**
+**Highlights:**
 
-- Configured persistent LAN addressing through DHCP reservation
-- Deployed Samba authenticated network file sharing
-- Deployed Jellyfin media services
+- Designed a **VLSM IPv4 addressing scheme** across five network segments
+- Configured **static/default routing, Layer 2 switching, and infrastructure addressing**
+- Designed **NAT/PAT** for inbound services and outbound Internet connectivity
+- Implemented application-specific **firewall ACLs** for HTTPS, LDAP, RDP, PostgreSQL, and web traffic
+- Segmented infrastructure using **Internal, DMZ, Intranet, and transit networks**
+- Designed network connectivity for **Active Directory, RDP Gateway, database, HR, and web services**
+- Evaluated **STP, redundant links, firewall clustering, and Active/Passive failover** for high availability
+
+**Skills:** TCP/IP • IPv4 • VLSM • Routing • Switching • NAT/PAT • Firewall ACLs • DMZ • Network Segmentation • STP • High Availability • Cisco Packet Tracer
+
+> [View Enterprise Network Security & Infrastructure Lab](YOUR-REPOSITORY-URL)
+
+---
+
+## Linux Home Server & Secure Remote Access Lab
+
+Built and secured an **Ubuntu Server** providing network storage, media services, VPN-based remote access, and centralized infrastructure services.
+
+**Highlights:**
+
+- Deployed authenticated **Samba/SMB network file sharing**
+- Configured **WireGuard/PiVPN** with individual client provisioning
+- Implemented VPN routing, NAT, and external connectivity
 - Configured DuckDNS dynamic DNS with automated updates
-- Deployed WireGuard using PiVPN
-- Provisioned individual VPN clients
-- Configured VPN routing and NAT
-- Verified remote access from external cellular networks
-- Configured remote SSH administration through WireGuard
-- Implemented default-deny IPv4 and IPv6 firewall policies
-- Configured persistent firewall rules
-- Implemented Wake-on-LAN configuration using `ethtool` and systemd
-- Troubleshot networking, permissions, firewall, and service configuration issues
+- Administered the server remotely using **SSH over WireGuard**
+- Implemented default-deny IPv4/IPv6 firewall policies and persistent rules
+- Managed services using **systemd** and automated tasks with cron
+- Troubleshot networking, permissions, firewall, and service issues
 
 **Skills:** Linux • Ubuntu Server • Bash • SSH • Samba • WireGuard • DNS • NAT • TCP/IP • Firewall Administration • systemd
 
@@ -117,37 +156,35 @@ Built and secured an Ubuntu home server providing network storage, media service
 
 ---
 
-### osTicket Help Desk Deployment Lab
+## osTicket Help Desk Deployment Lab
 
-Deployed and configured an osTicket help desk environment on Windows, integrating IIS, PHP, and MySQL to provide a functional ticketing platform for end users and IT support agents.
+Deployed and administered an **osTicket help desk environment on Windows**, integrating IIS, PHP, and MySQL into a functional support platform.
 
-**Implemented:**
+**Highlights:**
 
-- Configured Internet Information Services (IIS) to host the osTicket web application
-- Installed and integrated PHP, MySQL, PHP Manager, and required IIS components
-- Created and administered the osTicket MySQL database using HeidiSQL
-- Configured help desk agents, departments, roles, and ticket access permissions
-- Tested end-user ticket submission and agent ticket management workflows
-- Diagnosed agent authentication issues by inspecting application data with SQL
-- Troubleshot ticket visibility and department-routing issues
-- Performed post-installation security hardening by removing setup files and restricting configuration-file permissions
+- Configured **IIS, PHP, and MySQL** to host osTicket
+- Administered agents, departments, roles, queues, and ticket permissions
+- Tested end-user ticket submission and support workflows
+- Used **SQL and HeidiSQL** to investigate application and authentication issues
+- Troubleshot ticket visibility, routing, and user-access problems
+- Performed post-installation security hardening
 
-**Skills:** IT Support • Help Desk Administration • osTicket • IIS • Windows • MySQL • SQL • PHP • HeidiSQL • User Administration • RBAC • Troubleshooting
+**Skills:** IT Support • osTicket • IIS • Windows • MySQL • SQL • PHP • RBAC • Troubleshooting
 
 > [View osTicket Help Desk Project](https://github.com/Dajeal/osTicket-Help-Desk-Deployment-Lab)
 
+---
 
 ## What I'm Building Toward
 
-My current projects focus on building a foundation in:
+My portfolio is focused on developing the skills needed to administer and troubleshoot the systems, networks, identities, and services that support enterprise environments.
 
 ```text
 IT Support
-    ↓
+     ↓
 Systems Administration
-    ↓
+     ↓
 Identity & Access Management
 ```
 
-I am continuing to develop experience with Windows and Linux administration, Active Directory, cloud infrastructure, IAM, troubleshooting, automation, and secure enterprise infrastructure.
-
+I am continuing to develop hands-on experience with **Windows Server, Linux, Active Directory, enterprise networking, Microsoft Azure, IAM, PowerShell, automation, and secure infrastructure administration**.
